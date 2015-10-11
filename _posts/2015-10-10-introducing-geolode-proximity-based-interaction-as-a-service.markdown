@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introducing Geolode - Proximity-based Interaction as a Service"
+date: 2015-10-10T23:07:28-05:00
 author: "John Leacox"
 ---
 
