@@ -17,6 +17,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+paginate: 5
+
 author: Lodeup
 
 twitter:
